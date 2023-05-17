@@ -1,7 +1,7 @@
 # Segment Anything Model Demo for Images and Videos
-This is a demonstration of Meta's (Facebook) Segment Anything Model (SAM) which enables promptable segmentation yielding high-quality masks from a single foreground point. SAM has impressive zero-shot performance across a wide range of tasks, including edge detection, object proposal generation, and instance segmentation. 
+This is a demonstration and an extension of Meta's (Facebook) Segment Anything Model (SAM) [Segment Anything Model (SAM)](https://colab.research.google.com/github/facebookresearch/segment-anything/blob/main/notebooks/automatic_mask_generator_example.ipynb)  which enables promptable segmentation yielding high-quality masks from a single foreground point. SAM has impressive zero-shot performance across a wide range of tasks, including edge detection, object proposal generation, and instance segmentation. 
 
-You can access this paper through this link: [arXiv:2304.02643.pdf](https://arxiv.org/pdf/2304.02643.pdf)
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/segment-anything) [![arXiv](https://img.shields.io/badge/arXiv-2304.02643-b31b1b.svg)](https://arxiv.org/abs/2304.02643)
 
 You can also acces the online web based demo through https://segment-anything.com/
 
